@@ -14,7 +14,7 @@ class PassingParameter {
 		average = sum / marks.length;
 		System.out.println("Average is : " + average);
 		highest = highMark(marks);
-				System.out.println("The highest mark is : " + highest);
+		System.out.println("The highest mark is : " + highest);
 	}
 	
 	public static void printMarks(int[] allMarks) {
